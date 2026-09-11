@@ -4,6 +4,10 @@ A 2D top-down survival shooter made in Unity.
 
 Survive as long as you can, defeat enemies, and keep moving.
 
+## Gameplay Trailer
+
+[Watch the Gameplay Trailer](https://youtu.be/GLenO8B0Rc8)
+
 ## About the Game
 
 Over-Run is a top-down 2d survival shooter built as my first self-made Unity game
