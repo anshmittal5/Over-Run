@@ -1,6 +1,6 @@
 # Over-Run
 
-A 2D top-down survival shooter made in unity.
+A 2D top-down survival shooter made in Unity.
 
 Survive as long as you can, defeat enemies, and keep moving.
 
@@ -49,3 +49,21 @@ dashing, automatic gunfire, and a shockwave ability to stay alive and defeat ene
 - Managing UI, cooldowns, game states, and scene transitions
 - Debugging NullReferenceExceptions and other gameplay bugs
 - Using Git and GitHub to version-control and publish a Unity project
+
+## ScreenShots
+
+### Gameplay
+
+![Gameplay](gameplay.jpg)
+
+### Ability
+
+![Ability](ability.jpg)
+
+### Game Over
+
+![GameOver](gameOver.jpg)
+
+### Main Menu 
+
+![MainMenu](mainMenu.jpg)
