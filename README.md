@@ -4,6 +4,10 @@ A 2D top-down survival shooter made in Unity.
 
 Survive as long as you can, defeat enemies, and keep moving.
 
+## Play the Game
+
+[Download Over-Run on itch.io](https://anshmittal5.itch.io/over-run)
+
 ## Gameplay Trailer
 
 [Watch the Gameplay Trailer](https://youtu.be/GLenO8B0Rc8)
